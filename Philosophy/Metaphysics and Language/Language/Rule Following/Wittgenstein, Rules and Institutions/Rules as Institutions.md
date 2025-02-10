@@ -1,0 +1,24 @@
+The three dimensions of Wittgenstein's theory of rule following have been identified.
+1. The biological or psychological aspect, dealing with our instinctive and automatic responses.
+2. Its sociological or collectivist aspect which concerns the shaping and sanctioning of our innate tendencies and their organisation into customs, conventions, and institutions.
+3. The background of meaning finitism against which the entire process is set.
+
+All three must be kept in mind when we respond to Wittgenstein's slogan: 'A game, and language, a rule is an institution'. Our understanding of the claim that rules are institutions will also depend on how deep or shallow an idea we have on institutions. We need a specific understanding of what is meant by the word 'institution'. The same applies to Wittgenstein's references to conventions and customs.
+
+Here we must brace ourselves for a shock. Wittgenstein at no point explained or defined the words 'custom', 'convention' or 'institution'. He treated them as he treated the other basic terms of his analysis (such as 'game') as well-understood words of ordinary language.
+
+Consider what is said about following a sign-post. For Wittgenstein a sign-post is an example of a rule, and following a sign-post is a case of following a rule. One way to link the sign-post example with the finitist account of rules is as follows: think of the sign-post as like the initial instruction in a number sequence generation problem. The sign-post says 'this way'; the instruction says '+2'. Just as we set off generating numbers, so we look at the sign-post and then journey on, leaving the sign-post behind, but still 'following' it. 
+
+It wouldn't be proper to say somebody followed a sign-post just once in the history of mankind. We can say they once walked parallel to a board, but no that this was an act of following. So 'custom'implies a regular use and precludes single, isolated episodes by single individuals.  
+
+These conclusions are plausible but minimal, hardly adding depth to our understanding of the theory. If we are to deepen the analysis it is necessary to find some new resources and add some new ideas. The most pressing need is to develop an account of the nature of institutions. Since Wittgenstein doesn't offer such an account, we'll be making use of the ideas of the philosopher Anscombe and the sociologist Barnes. Their work can be used to provide us with a simple model of an institution.
+
+Let us address the question directly: what is an institution?
+
+Lets start by identifying some uncontroversial cases of social institutions. Clearly, money is an institution, marriage is an institution, and property is an institution. Reflecting on these cases might reveal to us general characteristics that can then be discerned in the case of rule following.
+
+Think of a simple economic system in which 'coins', in the form of metal discs, are used to facilitate exchange. We cannot say a coin simply is an appropriately shaped and stamped metal disc. Such objects could exist without being coins: they might be ornaments. Coins have shape and physical substance, but being a coin isn't a matter of shape or physical substance. It is a matter of how the thing is used. We discover the character of a coin by seeing how people relate to it. The important thing is how people regard it and employ it as a medium when interacting with one another. We will express this by saying metal discs are coins because they are called 'coins', My references to things being called 'coins' is shorthand for the entire repertoire of behavior associated with their being thought of, regarded as, or treated as, coins. Speaking of a thing as a coin is meant to refer to the whole pattern of behavior into which such explicit verbalization's are woven. Bearing in mind the compression involved, the important point is that the group practice of calling a certain type of object a coin, makes that object into a coin.
+
+The discs only become coins, and hence money, in the context of the institution of money. It's not an exaggeration then to insist that if we abandoned references to money, money would indeed vanish. Anscombe introduced the label of 'Linguistic Idealism' to describe the analysis appropriate to cases of this kind.
+
+Coins must be a rather different kind of thing from trees. Calling something a tree doesn't bring the object so designated into existence. The kind, class, or concept may be a human invention, but the objects falling under the concept are not. Instances of what may be called 'natural kinds' are, in this respect, different from instances of 'social kinds' (e.g. coins, respect, masters, slaves, etcs.) precisely because they have an existence independent of our regard.

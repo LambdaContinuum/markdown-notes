@@ -1,0 +1,1 @@
+Representation is Kant's generic term for a constituent or element of cognition, similar in scope to 'idea' in the writings of the rationalists and empiricists.
